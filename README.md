@@ -12,15 +12,17 @@
 ---
 
 ## 🚀 About Me
+Software Engineer passionate about building high-performance and scalable applications. I specialize in:
 
-Graduated from **ESPRIT** (2025), I'm passionate about building high-performance and scalable applications. I specialize in:
+🔧 Full-Stack Development with Spring Boot & Angular
 
-- 🔧 **Full Stack Development** with Spring Boot & Angular
-- ⚙️ **DevOps Engineering** with Docker, Kubernetes & CI/CD pipelines
-- 🤖 **Artificial Intelligence** and innovative solutions
-- 📊 **Monitoring & Observability** using Prometheus & Grafana
+⚙️ DevOps Engineering using Docker, Kubernetes & CI/CD pipelines
 
-💡 I'm driven by curiosity, rigor, and innovation—always ready to tackle technical challenges and transform ideas into real-world solutions.
+🤖 Artificial Intelligence and innovative solutions
+
+📊 Monitoring & Observability with Prometheus & Grafana
+
+💡 Driven by curiosity, rigor, and innovation, I enjoy tackling technical challenges and turning ideas into real-world solutions.
 
 ---
 
